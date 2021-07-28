@@ -1,0 +1,13 @@
+.container-character{
+    display: grid;
+    grid-template-columns: repeat(2, 400px);
+    margin: auto;
+    margin-top: 60px;
+    justify-content: center;
+    padding-top: 60px;
+    font-size: 1.5em;
+    background-color: #297585;
+    width: 60%;
+    height: 350px;
+    border-radius: 40px;
+}
